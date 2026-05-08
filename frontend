@@ -1,1 +1,6 @@
+bash
 
+NEXT_PUBLIC_API_URL=https://feuerwehr-sport.ch
+NEXT_PUBLIC_PUSH_SERVER=https://feuerwehr-sport.ch
+
+bash
